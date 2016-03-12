@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">cuarto</string>
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+        <item>Santa marta</item>
+        <item>Bogota</item>
+        <item>Puerto Berrio</item>
+
+    </string-array>
+</resources>
+
+
